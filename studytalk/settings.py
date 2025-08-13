@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-h%$^36ieehx7=z(b4zm&=c!ynpkv-vw34(1s!r@=icvx6+=5xq
 DEBUG = False
 
 ALLOWED_HOSTS = ['KushalCmd.pythonanywhere.com']
-CSRF_TRUSTED_ORIGINS=['KushalCmd.pythonanywhere.com']
+CSRF_TRUSTED_ORIGINS = ['https://KushalCmd.pythonanywhere.com']
 
 
 # Application definition
